@@ -1,0 +1,18 @@
+/*
+@Author: ThemeMascot
+@URL: http://ThemeMascot.com
+
+This is the file where you can add your custom styles to change the look of the
+theme. But don't modify style-main.css file.
+
+*/
+
+/* Your custom css codes start here: */
+
+.menuzord.orange .menuzord-menu > li.active > a, .menuzord.orange .menuzord-menu > li:hover > a, .menuzord.orange .menuzord-menu ul.dropdown li:hover > a{
+    background: #00A4EF !important;
+}
+
+.side-panel-trigger{
+    display: none !important;
+}
